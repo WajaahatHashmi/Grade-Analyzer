@@ -43,11 +43,11 @@ A command-line Python application for tracking student grades, calculating avera
  
 Enter your choice: 1
  
-wuji - Average: 80.00 - Grade: A
-ali - Average: 74.00 - Grade: B
-abdul - Average: 66.67 - Grade: B
-tyler - Average: 54.33 - Grade: C
-edu - Average: 56.67 - Grade: C
+Hashmi - Average: 80.00 - Grade: A
+Mohammed - Average: 74.00 - Grade: B
+Grace - Average: 66.67 - Grade: B
+Bob - Average: 54.33 - Grade: C
+Fatima - Average: 56.67 - Grade: C
 ```
  
 ## Grading Scale
